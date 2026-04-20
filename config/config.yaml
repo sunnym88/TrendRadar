@@ -9,4 +9,4 @@ push:
     token: "TELEGRAM_TOKEN"
     chat_id: "1784347650"
 
-language: "zh_CN"
+language: "zh_CN" 
